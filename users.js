@@ -3,11 +3,9 @@
 ))
 
 app.get("/api/users",async(req,response
-         var result =await User.findAll({
-          User.findAll({
+         await User.findAll({
             attributes:{
               exclude: {'updatetime'}
             }
           })         
-         })
 ))
