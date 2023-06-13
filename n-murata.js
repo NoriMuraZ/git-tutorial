@@ -4,8 +4,7 @@ let result_test = 0
 result_test = result + 1
 
 function test(){
-    let test = 0
+    let test = 20
     return test
 }
-
 
