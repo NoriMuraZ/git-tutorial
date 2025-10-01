@@ -1,1 +1,2 @@
-let result = 10
+let result = 50
+let initData = 0
